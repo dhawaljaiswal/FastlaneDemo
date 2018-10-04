@@ -21,7 +21,7 @@ export default class App extends Component<Props> {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}>Welcome to Ratufa NK Developer!</Text>
+        <Text style={styles.welcome}>Welcome to Ratufa NKP Developer!</Text>
         <Text style={styles.instructions}>This is faslane demo for continuous integration.</Text>
         <Text style={styles.instructions}>{instructions}</Text>
       </View>
