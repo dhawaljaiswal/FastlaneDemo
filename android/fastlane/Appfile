@@ -1,0 +1,2 @@
+json_key_file("D:/Nandkishor's Data/React Native/ReactNative Project/FastlaneDemo/android/fastlane/key.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("com.ratufa.fastlanedemo") # e.g. com.krausefx.app
